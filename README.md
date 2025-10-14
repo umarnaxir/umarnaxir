@@ -10,7 +10,7 @@
 
 <div align="center">
 
-#### About Me
+## About Me
 
 I'm a Computer Science Engineer and Software Developer at Saibbyweb, with over two years of experience in Front-End Development, SEO, and Digital Marketing. I specialize in building efficient, scalable web solutions using React.js, Next.js, TypeScript, and Tailwind CSS. As Founder and CEO of NexGen Developers, I lead a team of talented freelancers delivering Full-Stack Development, AI/ML Models, Chatbot Solutions, and Digital Marketing services, empowering businesses with innovative software solutions and a strong digital presence.
 
@@ -20,7 +20,7 @@ I'm a Computer Science Engineer and Software Developer at Saibbyweb, with over t
 
 <div align="center">
 
-### Tech Stack
+## Tech Stack
 
 </div>
 
