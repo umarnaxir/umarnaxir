@@ -12,10 +12,7 @@
 
 ### About Me
 
-
-I'm a Computer Science Engineer and Software Developer at Saibbyweb, with over two years of professional experience in Front-End Development, SEO, and Digital Marketing. My journey in technology has been shaped by a strong academic foundation from the Government College of Engineering and Technology, Kashmir. At Saibbyweb, I focus on building efficient, scalable, and user-friendly web solutions using modern technologies like React.js, Next.js, TypeScript, Tailwind CSS, Firebase, and MySQL, while integrating advanced SEO strategies to boost digital visibility.
-
-Beyond my professional role, I am the Founder and CEO of NexGen Developers, a growing team of talented freelancers delivering end-to-end digital solutions. We specialize in Full-Stack Software Development, AI/ML Models, Chatbot Development, Digital Marketing, SEO Services, and Graphic Design. At NexGen Developers, I oversee project management, client relations, and technical strategy, ensuring that every project we deliver is not just functional but impactful. Our goal is to empower businesses with innovative software solutions and a strong digital presence.
+I'm a Computer Science Engineer and Software Developer at Saibbyweb, with over two years of experience in Front-End Development, SEO, and Digital Marketing. I specialize in building efficient, scalable web solutions using React.js, Next.js, TypeScript, and Tailwind CSS. As Founder and CEO of NexGen Developers, I lead a team of talented freelancers delivering Full-Stack Development, AI/ML Models, Chatbot Solutions, and Digital Marketing services, empowering businesses with innovative software solutions and a strong digital presence.
 
 </div>
 
@@ -56,6 +53,22 @@ Freelance platform delivering AI/ML, chatbots, web development and digital marke
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+#### Office Management System
+Complete office management solution for streamlined operations and productivity
+> React | Node.js | MySQL
+
+</td>
+<td width="50%">
+
+#### Hotel Sea View
+Modern hotel booking and management platform with seamless user experience
+> Next.js | TypeScript | Tailwind
+
+</td>
+</tr>
 </table>
 
 ---
@@ -66,7 +79,7 @@ Freelance platform delivering AI/ML, chatbots, web development and digital marke
 
 [![Email](https://img.shields.io/badge/Email-erumarnazir@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erumarnazir@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umarnazir)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umarnazir.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umarnazir.vercel.app)
 
 ---
 
