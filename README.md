@@ -8,15 +8,16 @@
 
 ---
 
-<div align="justify">
+<div align="center">
 
 ### About Me
 
-</div>
 
 I'm a Computer Science Engineer and Software Developer at Saibbyweb, with over two years of professional experience in Front-End Development, SEO, and Digital Marketing. My journey in technology has been shaped by a strong academic foundation from the Government College of Engineering and Technology, Kashmir. At Saibbyweb, I focus on building efficient, scalable, and user-friendly web solutions using modern technologies like React.js, Next.js, TypeScript, Tailwind CSS, Firebase, and MySQL, while integrating advanced SEO strategies to boost digital visibility.
 
 Beyond my professional role, I am the Founder and CEO of NexGen Developers, a growing team of talented freelancers delivering end-to-end digital solutions. We specialize in Full-Stack Software Development, AI/ML Models, Chatbot Development, Digital Marketing, SEO Services, and Graphic Design. At NexGen Developers, I oversee project management, client relations, and technical strategy, ensuring that every project we deliver is not just functional but impactful. Our goal is to empower businesses with innovative software solutions and a strong digital presence.
+
+</div>
 
 ---
 
