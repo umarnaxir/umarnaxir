@@ -78,7 +78,7 @@ Modern hotel booking and management platform with seamless user experience
 ### Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-erumarnazir@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erumarnazir@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umarnazir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umarnazir19)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umarnazir.vercel.app)
 
 ---
