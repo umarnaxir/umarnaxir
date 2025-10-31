@@ -232,6 +232,5 @@ graph LR
 
 ![Profile Views](https://komarev.com/ghpvc/?username=umarnazir&color=blueviolet&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 </div>
