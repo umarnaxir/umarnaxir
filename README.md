@@ -69,7 +69,7 @@ As the **Founder & CEO of NexGen Developers**, I lead a talented team of freelan
 - **Agile Methodologies:** Scrum, Kanban
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 <table>
@@ -138,6 +138,8 @@ Modern hotel booking and management platform with seamless user experience and r
 </td>
 </tr>
 </table>
+-->
+
 
 ## 🎯 Services I Offer
 
