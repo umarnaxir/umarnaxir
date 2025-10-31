@@ -2,7 +2,7 @@
   
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi there, I'm Umar Nazir
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4C8BF5&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Frontend+Engineer;Founder+%26+CEO+at+NexGen+Developers;Building+Scalable+Web+Solutions;SEO+%26+Digital+Marketing+Expert;Full-Stack+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4C8BF5&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C;Founder+%26+CEO+at+NexGen+Developers;Building+Scalable+Web+Solutions;SEO+%26+Digital+Marketing+Expert;Full-Stack+Developer+%7C+Problem+Solver" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-umarnazir.vercel.app-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://umarnazir.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-umar--nazir19-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-nazir19)
