@@ -16,12 +16,12 @@
 
 ```typescript
 const umarNazir = {
-    role: "Software Developer & Frontend Engineer",
+    role: "Software Development Engineer",
     company: "Saibbyweb",
     founder: "NexGen Developers",
     education: "Computer Science Engineer",
     experience: "2+ years",
-    location: "Delhi, India",
+    location: "Kashmir, India",
     
     currentFocus: [
         "Building scalable web applications",
@@ -29,7 +29,7 @@ const umarNazir = {
         "Driving digital transformation"
     ],
     
-    funFact: "I turn coffee ☕ into code and ideas into digital reality! 🚀"
+    funFact: "I turn coffee ☕ into code and ideas into digital reality!"
 };
 ```
 
@@ -67,19 +67,6 @@ As the **Founder & CEO of NexGen Developers**, I lead a talented team of freelan
 - **Testing:** Jest, React Testing Library
 - **Version Control:** Git, GitHub, GitLab
 - **Agile Methodologies:** Scrum, Kanban
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umarnazir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarnazir&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarnazir&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
 ---
 
@@ -152,24 +139,6 @@ Modern hotel booking and management platform with seamless user experience and r
 </tr>
 </table>
 
----
-
-## 💼 Professional Experience
-
-### 🔹 Software Developer @ Saibbyweb
-*2022 - Present*
-- Developing scalable web applications using React.js and Next.js
-- Implementing SEO strategies resulting in improved search rankings
-- Collaborating with cross-functional teams to deliver client projects
-
-### 🔹 Founder & CEO @ NexGen Developers
-*2023 - Present*
-- Leading a team of skilled developers and designers
-- Managing end-to-end project delivery
-- Driving business growth through innovative solutions
-
----
-
 ## 🎯 Services I Offer
 
 ```mermaid
@@ -193,20 +162,20 @@ graph LR
 
 ## 📈 SEO & Digital Marketing Expertise
 
-- 🎯 **Technical SEO:** Site Speed Optimization, Schema Markup, Core Web Vitals
-- 🔍 **On-Page SEO:** Keyword Research, Content Optimization, Meta Tags
-- 🔗 **Off-Page SEO:** Link Building, Social Signals, Brand Mentions
-- 📊 **Analytics:** Google Analytics, Search Console, Performance Tracking
-- 💡 **Strategy:** Content Marketing, Conversion Rate Optimization
+- **Technical SEO:** Site Speed Optimization, Schema Markup, Core Web Vitals
+- **On-Page SEO:** Keyword Research, Content Optimization, Meta Tags
+- **Off-Page SEO:** Link Building, Social Signals, Brand Mentions
+- **Analytics:** Google Analytics, Search Console, Performance Tracking
+- **Strategy:** Content Marketing, Conversion Rate Optimization
 
 ---
 
 ## 🏆 Achievements
 
-- ⭐ Successfully delivered **20+ client projects**
-- 🚀 Improved client website traffic by **150%** through SEO optimization
-- 👥 Built and managed a team of **10+ freelance professionals**
-- 💼 Established NexGen Developers as a trusted software solutions provider
+- Successfully delivered **20+ client projects**
+- Improved client website traffic by **150%** through SEO optimization
+- Built and managed a team of **10+ freelance professionals**
+- Established NexGen Developers as a trusted software solutions provider
 
 ---
 
@@ -228,7 +197,7 @@ graph LR
 
 <div align="center">
 
-### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
+### Code is like humor. When you have to explain it, it's bad. – Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=umarnazir&color=blueviolet&style=flat-square&label=Profile+Views)
 
