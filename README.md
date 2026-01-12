@@ -33,7 +33,7 @@ const umarNazir = {
 };
 ```
 
-I'm a passionate **Software Developer** specializing in creating efficient, scalable, and user-centric web solutions. With over **2 years of professional experience**, I combine technical expertise with business acumen to deliver impactful digital products.
+I'm a passionate **Software Developer** specializing in creating efficient, scalable, and user-centric web and app solutions. With over **2 years of professional experience**, I combine technical expertise with business acumen to deliver impactful digital products.
 
 As the **Founder & CEO of NexGen Developers**, I lead a talented team of freelancers providing comprehensive solutions including Full-Stack Development, AI/ML Models, Chatbot Solutions, and Digital Marketing services.
 
@@ -43,90 +43,21 @@ As the **Founder & CEO of NexGen Developers**, I lead a talented team of freelan
 
 ### **Frontend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,ts,redux,materialui,bootstrap&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nextjs,tailwind,ts,redux,materialui,bootstrap&perline=10" />
 </p>
 
 ### **Backend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postman,nginx&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postman&perline=10" />
 </p>
 
 ### **Database & APIs**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis,prisma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,prisma&perline=10" />
 </p>
 
 ### **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode,figma,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,figma&perline=10" />
 </p>
 <!--
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌟 [Kindness Towards Humanity](https://kindnesstowardshumanity.in)
-
-A comprehensive NGO platform dedicated to serving underprivileged communities through welfare and education programs.
-
-**Tech Stack:**
-- React.js
-- Tailwind CSS
-- SEO Optimized
-- Responsive Design
-
-**Impact:** Empowering communities with accessible resources
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 [NexGen Developers](https://github.com/umarnazir/NexGen-Developers)
-
-Full-service freelance platform offering AI/ML solutions, chatbot development, web development, and digital marketing.
-
-**Tech Stack:**
-- Full-Stack Development
-- AI/ML Integration
-- GraphQL APIs
-- Cloud Solutions
-
-**Services:** 360° Digital Solutions
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Office Management System
-
-Enterprise-grade office management solution streamlining operations and boosting productivity.
-
-**Tech Stack:**
-- React.js
-- Node.js
-- MySQL
-- REST APIs
-
-**Features:** Task Management, Employee Tracking, Analytics
-
-</td>
-<td width="50%" valign="top">
-
-### 🏨 Hotel Sea View
-
-Modern hotel booking and management platform with seamless user experience and real-time availability.
-
-**Tech Stack:**
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Firebase
-
-**Features:** Real-time Booking, Payment Integration, Admin Dashboard
-
-</td>
-</tr>
-</table>
--->
