@@ -43,7 +43,7 @@ As the **Founder & CEO of NexGen Developers**, I lead a talented team of freelan
 
 ### **Frontend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nextjs,tailwind,ts,redux,materialui,bootstrap&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,native,nextjs,tailwind,ts,redux,materialui,bootstrap&perline=10" />
 </p>
 
 ### **Backend Development**
