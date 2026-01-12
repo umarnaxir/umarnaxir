@@ -60,15 +60,6 @@ As the **Founder & CEO of NexGen Developers**, I lead a talented team of freelan
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode,figma,linux&perline=10" />
 </p>
-
-### **Additional Skills**
-- **SEO & Digital Marketing:** Technical SEO, On-Page/Off-Page Optimization, Google Analytics, Search Console
-- **APIs:** REST APIs, GraphQL, API Integration & Development
-- **Testing:** Jest, React Testing Library
-- **Version Control:** Git, GitHub, GitLab
-- **Agile Methodologies:** Scrum, Kanban
-
----
 <!--
 ## 🚀 Featured Projects
 
