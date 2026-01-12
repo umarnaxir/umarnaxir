@@ -183,7 +183,7 @@ graph LR
 
 ## 📫 Let's Connect & Collaborate
 
-<div align="center">
+<!-- <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-umarnazir.vercel.app-FF5722?style=for-the-badge)](https://umarnazir.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-nazir19)
@@ -204,4 +204,4 @@ graph LR
 ![Profile Views](https://komarev.com/ghpvc/?username=umarnazir&color=blueviolet&style=flat-square&label=Profile+Views)
 
 
-</div>
+</div> -->
