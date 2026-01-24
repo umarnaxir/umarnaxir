@@ -24,7 +24,7 @@ const umarNazir = {
     location: "Kashmir, India",
     
     currentFocus: [
-        "Building scalable web applications",
+        "Building scalable Websites and Mobile Applications",
         "Leading development teams",
         "Driving digital transformation"
     ],
