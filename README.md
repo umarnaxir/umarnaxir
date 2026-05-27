@@ -16,11 +16,10 @@
 
 ```typescript
 const umarNazir = {
-    role: "Software Development Engineer",
-    company: "Saibbyweb",
+    role: "SDE",
     founder: "NexGen Developers",
     education: "Computer Science Engineer",
-    experience: "2+ years",
+    experience: "3+ years",
     location: "Kashmir, India",
     
     currentFocus: [
