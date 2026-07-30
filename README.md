@@ -32,7 +32,7 @@ const umarNazir = {
 };
 ```
 
-I'm a passionate **Software Developer** specializing in creating efficient, scalable, and user-centric web and app solutions. With over **2 years of professional experience**, I combine technical expertise with business acumen to deliver impactful digital products.
+I'm a passionate **Software Developer** specializing in creating efficient, scalable, and user-centric web and app solutions. With over **3 years of professional experience**, I combine technical expertise with business acumen to deliver impactful digital products.
 
 As the **Founder & CEO of NexGen Developers**, I lead a talented team of freelancers providing comprehensive solutions including Full-Stack Development, AI/ML Models, Chatbot Solutions, and Digital Marketing services.
 
