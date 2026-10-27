@@ -37,26 +37,3 @@ I'm a passionate **Software Engineer** specializing in creating efficient, scala
 As the **Founder & CEO of NexGen Developers**, I lead a talented team of freelancers providing comprehensive solutions including Full-Stack Development, AI/ML Models, Chatbot Solutions, and Digital Marketing services.
 
 ---
-
-## 🛠️ Tech Stack
-
-### **Frontend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,ts,redux,materialui,bootstrap&perline=10" />
-</p>
-
-### **Backend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postman&perline=10" />
-</p>
-
-### **Database & APIs**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,prisma&perline=10" />
-</p>
-
-### **DevOps & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,figma&perline=10" />
-</p>
-<!--
